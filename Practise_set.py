@@ -1,8 +1,8 @@
 # # adding a sting and showing its id, type and value
-# new_string = "This is a string"
-# print(id(new_string))
-# print(type(new_string))
-# print(new_string)
+new_string = "This is a string"
+print(id(new_string))
+print(type(new_string))
+print(new_string)
 
 # s1 = 'this is a string'
 # s2 = 'this is "another" string'
